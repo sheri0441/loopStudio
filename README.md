@@ -23,8 +23,6 @@ Your users should be able to:
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
-## How I have build it
+## How I build it
 
-I have used Reactjs and SCSS to build this project for practice purposes. 
-
-
+I only use HTML and CSS even for mobile toggle button but design change little bit because of zero js code.
