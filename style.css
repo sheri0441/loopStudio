@@ -210,7 +210,7 @@ h2{
     background-image: url("./images/mobile/image-hero.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 12rem 0rem;
+    padding: 18rem 0rem 14rem 0;
     z-index: -2;
     overflow: hidden;
     position: relative;
@@ -352,6 +352,8 @@ button:hover{
         grid-column: 2/3;
         grid-row: 1/2;
         margin-left: auto;
+        max-height: 65px;
+        align-self: center;
     }
 
     .gallery{
